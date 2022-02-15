@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: a645cd12-bbbc-427e-4c9b-6e8f26da84ef
 ---
@@ -108,7 +111,7 @@ D'' Anisotropy and Mineral Texture by Maureen Long ([PDF]({{< baseurl >}}/resour
 {{< tdopen >}}
 D'' Anisotropy and Mineral Texture (cont.) by Maureen Long ([PDF]({{< baseurl >}}/resources/lec8_1))  
   
-Deformation of (Mg0.9Fe0.1)SiO3  
+Deformation of (Mg{{< sub "0.9" >}}Fe{{< sub "0.1" >}})SiO{{< sub "3" >}}  
 Perovskite Aggregates up to 32 GPa
 {{< tdclose >}}
 

@@ -2,8 +2,13 @@
 content_type: resource
 description: 'Student Guangping Xu''s presentation of a review of the reading assignment
   "187Os Enrichment in Some Plumes: Evidence for Core-Mantle Interaction?"'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/84075d9e1ed115c98a292566e3e2112e_lec9.pdf
+file: /media/courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/84075d9e1ed115c98a292566e3e2112e_lec9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec9.pdf
 uid: 84075d9e-1ed1-15c9-8a29-2566e3e2112e
