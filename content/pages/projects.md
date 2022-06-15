@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions and sample topics for the final report
+  required for the course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ uid: 739c54ce-5298-4a04-0884-bdc06e1d6b5d
 Final Reports
 -------------
 
-Term paper: NSF-type proposal focused on outstanding CMB question ([PDF]({{< baseurl >}}/resources/questions)), including a detailed research plan; 3-5 students per team; 15 pages maximum (including text + figures, but excluding references).
+Term paper: NSF-type proposal focused on outstanding CMB question ({{% resource_link 11b2f104-ccdf-d37f-caf0-4918a5094bd5 "PDF" %}}), including a detailed research plan; 3-5 students per team; 15 pages maximum (including text + figures, but excluding references).
 
 Topics chosen for the Spring 2004 final reports were:
 
