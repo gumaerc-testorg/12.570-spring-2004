@@ -5,6 +5,7 @@ file: /courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/2f32b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec2_1.pdf
 uid: 2f32ba1a-a472-7fd7-9a29-d32e09b98963
 ---
 A review of reading assignments by Chin-Wu Chen.
-

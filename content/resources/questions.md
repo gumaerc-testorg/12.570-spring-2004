@@ -6,6 +6,7 @@ file: /courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/11b2f
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: questions.pdf
 uid: 11b2f104-ccdf-d37f-caf0-4918a5094bd5
 ---
 Suggested questions for use in completing term paper: an NSF-type proposal focused on an outstanding CMB question.
-

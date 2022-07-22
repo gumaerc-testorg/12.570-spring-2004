@@ -6,6 +6,7 @@ file: /courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/319ce
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec6_1.pdf
 uid: 319ce5fc-a713-da18-e2eb-d098fafb090a
 ---
 Student Karin Louzada's presentation of a review of the reading assignment "Melting of Iron-Magnesium-Silicate Perovskite."
-

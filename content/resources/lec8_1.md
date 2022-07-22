@@ -7,6 +7,7 @@ file: /courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/e0d3e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec8_1.pdf
 uid: e0d3e2c8-7514-c33e-90aa-a417bdc3d57a
 ---
 Student Maureen Long's presentation of a review of the reading assignment "Development of Anisotropic Structure in the Earth?s Lower Mantle by Solid-State Convection."
-

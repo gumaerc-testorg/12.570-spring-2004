@@ -6,6 +6,7 @@ file: /courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/23cbf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec5_1.pdf
 uid: 23cbfda7-60db-8092-5eed-4b0995e76764
 ---
 A review of reading assignment "Seismic Evidence for Partial Melt at the Base of Earth?s Mantle" by Erwan Mazarico.
-

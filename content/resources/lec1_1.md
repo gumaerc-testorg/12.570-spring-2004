@@ -6,6 +6,7 @@ file: /courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/f2869
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec1_1.pdf
 uid: f2869399-d67f-ce18-0382-31c9ecdaaa3a
 ---
 Lecture slides on 1st Order Earth Structure, the Preliminary Reference Earth Model, The Core Mantle Boundary Region and Seismic Probing of the CMB.
-
