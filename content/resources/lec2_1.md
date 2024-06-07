@@ -2,6 +2,7 @@
 content_type: resource
 description: A review of reading assignments by Chin-Wu Chen.
 file: /courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/2f32ba1aa4727fd79a29d32e09b98963_lec2_1.pdf
+file_size: 647068
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
