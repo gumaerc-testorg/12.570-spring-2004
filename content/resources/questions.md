@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Suggested questions for use in completing term paper: an NSF-type proposal
   focused on an outstanding CMB question.'
-file: /courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/11b2f104ccdfd37fcaf04918a5094bd5_questions.pdf
+file: /ol-ocw-studio-app/courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/11b2f104ccdfd37fcaf04918a5094bd5_questions.pdf
 file_size: 53449
 file_type: application/pdf
 learning_resource_types:
