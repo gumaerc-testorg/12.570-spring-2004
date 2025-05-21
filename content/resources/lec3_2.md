@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Review of reading assignment "Earth?s Core-Mantle Boundary: Results
   of Experiments at High Pressures and Temperatures" by Einat Lev.'
-file: /ol-ocw-studio-app/courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/26ac615da2aae7fc7b68d086928f42af_lec3_2.pdf
+file: /courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/26ac615da2aae7fc7b68d086928f42af_lec3_2.pdf
 file_size: 649867
 file_type: application/pdf
 learning_resource_types:

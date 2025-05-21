@@ -2,7 +2,7 @@
 content_type: resource
 description: Student Karin Louzada's presentation of a review of the reading assignment
   "Melting of Iron-Magnesium-Silicate Perovskite."
-file: /ol-ocw-studio-app/courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/319ce5fca713da18e2ebd098fafb090a_lec6_1.pdf
+file: /courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/319ce5fca713da18e2ebd098fafb090a_lec6_1.pdf
 file_size: 208168
 file_type: application/pdf
 learning_resource_types:
